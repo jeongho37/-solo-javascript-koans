@@ -1,1 +1,1 @@
-# -solo-javascript-koans
+# solo-javascript-koans
